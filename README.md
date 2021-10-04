@@ -1,0 +1,1 @@
+Utility for reading .env files for nodejs (typescript)
